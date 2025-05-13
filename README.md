@@ -1,1 +1,1 @@
-# GENAI
+# GENAINSIC
